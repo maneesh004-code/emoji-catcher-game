@@ -45,10 +45,6 @@ This game project is a great way to learn:
 
 ---
 
-## 🌐 Live Demo
-
-👉 [Play Emoji Catcher Game Now](https://maneesh004-code.github.io/emoji-catcher-game/)
----
 
 ## 🙌 Contribution
 Feel free to fork this repository and add:
