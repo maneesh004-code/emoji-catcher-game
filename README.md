@@ -36,12 +36,6 @@ Welcome to the Emoji Catcher Game — a fast-paced, beginner-friendly game where
 
 ---
 
-## 📸 Preview
-![preview](https://i.imgur.com/y2UypAV.png)  
-*(You can add your own screenshot or GIF of gameplay)*
-
----
-
 ## 🧠 Learning Objectives
 This game project is a great way to learn:
 - DOM manipulation in JavaScript
@@ -52,7 +46,8 @@ This game project is a great way to learn:
 ---
 
 ## 🌐 Live Demo
-[Live Game on GitHub Pages](https://github.com/maneesh004-code/emoji-catcher-game)  
+
+👉 [Play Emoji Catcher Game Now](maneesh004-code.github.io/emoji-catcher-game/)
 
 
 ---
